@@ -1,0 +1,35 @@
+@media (max-width: 1145px) {
+	.box,
+	.mtavari {
+		width: 250px;
+	}
+	
+@media (max-width: 1145px) {
+	.bluebox,
+	.withebox {
+		width: 250px;
+	}
+
+
+@media (max-width: 1145px) {
+	.lightbox,
+	.lightblue{
+		width: 250px;
+	}
+
+
+
+	
+@media (max-width: 1145px) {
+	.morelightbox,
+	.textresponsive{
+		width: 250px;
+	}
+
+	
+@media (max-width: 1145px) {
+	.responsive2,
+	.textresponsive{
+		width: 250px;
+		
+	}
